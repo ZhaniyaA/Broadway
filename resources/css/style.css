@@ -1,0 +1,88 @@
+/*Main Text Align*/
+
+#header, #process, #design, #information {
+  text-align: center;
+}
+
+
+/*Header*/
+
+#header {
+  background-image: url("image/the_flatiron_building.png");
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#menu {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+
+/*Links*/
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+
+/*Process and Information*/
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+
+/*Design*/
+
+#design {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("image/the_flatiron_building.png");
+}
+
+
+/*Footer*/
+
+#footer {
+  background-color: dimgray;
+}
+
+span {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
